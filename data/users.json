@@ -1,0 +1,18 @@
+{
+    "users": [{
+            "id": 1,
+            "name": "Lewis Hamilton",
+            "number": "44"
+        },
+        {
+            "id": 2,
+            "name": "Michael Schumacher",
+            "number": "07"
+        },
+        {
+            "id": 3,
+            "name": "Charles Marc Leclerc",
+            "number": "16"
+        }
+    ]
+}
