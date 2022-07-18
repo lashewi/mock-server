@@ -24,3 +24,8 @@ http://localhost:3000/products?_sort=name&_order=asc
 ```
 http://localhost:3000/products?category=apparel&subcategory=headgear
 ```
+
+### Running the app
+```
+docker-compose -f docker-compose.yml up --build -d
+```
