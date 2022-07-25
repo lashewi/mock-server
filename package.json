@@ -12,7 +12,7 @@
         "url": "git+https://github.com/lashewi/mock-server.git"
     },
     "keywords": [],
-    "author": "",
+    "author": "lashewi",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/lashewi/mock-server/issues"
